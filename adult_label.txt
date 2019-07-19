@@ -1,0 +1,3 @@
+happy:0
+norm:1
+pain:2

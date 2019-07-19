@@ -1,0 +1,5 @@
+laugh:0
+sleep:1
+pain:2
+cry:3
+finger:4

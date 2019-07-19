@@ -1,0 +1,5 @@
+happy:0
+norm:1
+sad:2
+fear:3
+angry:4
